@@ -1,4 +1,7 @@
 # UChat
 
+```sh
 npm install
-run on Port 3000
+npm run dev
+```
+Should run on Port 3000
